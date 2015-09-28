@@ -1,2 +1,2 @@
 # opensource
-Opensource plugins
+Opensource plugins for piwik analytics platform
